@@ -1,9 +1,10 @@
 body{
-    background-image: url("https://images.unsplash.com/photo-1616763880410-744958efc093?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=633&q=80");
+background: rgb(5,136,10);
+background: linear-gradient(0deg, rgba(5,136,10,1) 0%, rgba(45,253,176,1) 100%);
 }
 
 .title{
-  color: #e1d9ec;
+  color: #337357;
   text-align: center
 }
 .timeline {
@@ -105,4 +106,9 @@ body{
     left: 50%;
     background-color: #333333;
 }
-
+img {
+  height: 150px;
+  width: 150px;
+  margin: 0 15px;
+  object-fit: cover;
+}
