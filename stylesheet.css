@@ -13,6 +13,9 @@ body{
     max-width: 1080px;
     
 }
+.timeline h3 {
+    color:#e1d9ec;
+}
 
 .timeline ul li {
     margin-bottom: 50px;
@@ -102,3 +105,4 @@ body{
     left: 50%;
     background-color: #333333;
 }
+
