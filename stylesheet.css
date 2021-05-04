@@ -1,11 +1,12 @@
 .title{
-  color: #337357;
+  color: #e1d9ec;
   text-align: center
 }
 .timeline {
     position: relative;
     margin: 0 auto;
     width: 90%;
+    max-width: 1080px;
     
 }
 
