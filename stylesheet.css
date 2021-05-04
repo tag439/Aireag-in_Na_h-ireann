@@ -112,3 +112,8 @@ img {
   margin: 0 15px;
   object-fit: cover;
 }
+img:hover{
+  height: 350px;
+  width: 350px;
+  margin: 0 15px;
+}
